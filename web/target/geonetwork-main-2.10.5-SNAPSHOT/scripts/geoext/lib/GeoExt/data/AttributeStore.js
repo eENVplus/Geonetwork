@@ -1,0 +1,1 @@
+Ext.namespace("GeoExt.data");GeoExt.data.AttributeStore=function(a){a=a||{};GeoExt.data.AttributeStore.superclass.constructor.call(this,Ext.apply(a,{proxy:a.proxy||(!a.data?new Ext.data.HttpProxy({url:a.url,disableCaching:false,method:"GET"}):undefined),reader:new GeoExt.data.AttributeReader(a,a.fields||["name","type"])}))};Ext.extend(GeoExt.data.AttributeStore,Ext.data.Store);

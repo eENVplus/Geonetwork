@@ -1,0 +1,1 @@
+OpenLayers.Format.WFSCapabilities.v1_1_0=OpenLayers.Class(OpenLayers.Format.WFSCapabilities.v1,{initialize:function(a){OpenLayers.Format.WFSCapabilities.v1.prototype.initialize.apply(this,[a])},CLASS_NAME:"OpenLayers.Format.WFSCapabilities.v1_1_0"});

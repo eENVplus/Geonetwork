@@ -1,0 +1,1 @@
+OpenLayers.Format.ArcXML.Features=OpenLayers.Class(OpenLayers.Format.XML,{initialize:function(a){OpenLayers.Format.XML.prototype.initialize.apply(this,[a])},read:function(c){var b=new OpenLayers.Format.ArcXML();var a=b.read(c);return a.features.feature}});

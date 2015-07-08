@@ -1,0 +1,1 @@
+var tipMan=null;function init(){tipMan=new TooltipManager();ker.loadMan.wait(tipMan)}function TooltipManager(){var a=new XMLLoader(Env.locUrl+"/xml/editor.xml");this.init=b;function b(){var d=document.getElementsByTagName("SPAN");for(var c=0;c<d.length;c++){var e=d[c].getAttribute("id");if(e!=null){if(e.startsWith("tip.")){new Tooltip(a,d[c])}}}}};

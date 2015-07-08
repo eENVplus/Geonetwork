@@ -1,0 +1,1 @@
+OpenLayers.Format.CSWGetDomain=function(b){b=OpenLayers.Util.applyDefaults(b,OpenLayers.Format.CSWGetDomain.DEFAULTS);var a=OpenLayers.Format.CSWGetDomain["v"+b.version.replace(/\./g,"_")];if(!a){throw"Unsupported CSWGetDomain version: "+b.version}return new a(b)};OpenLayers.Format.CSWGetDomain.DEFAULTS={version:"2.0.2"};

@@ -1,0 +1,1 @@
+function TabSwitcher(){var c=new Array();for(var b=0;b<arguments.length;b++){c.push(arguments[b])}this.add=d;this.show=a;function d(){for(var e=0;e<arguments.length;e++){c[e].push(arguments[e])}}function a(){for(var f=0;f<arguments.length;f++){for(var e=0;e<c[f].length;e++){if(arguments[f]==c[f][e]){Element.show(c[f][e])}else{Element.hide(c[f][e])}}}}};

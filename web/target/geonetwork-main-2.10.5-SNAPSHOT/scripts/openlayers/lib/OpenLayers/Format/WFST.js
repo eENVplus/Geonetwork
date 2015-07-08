@@ -1,0 +1,1 @@
+OpenLayers.Format.WFST=function(b){b=OpenLayers.Util.applyDefaults(b,OpenLayers.Format.WFST.DEFAULTS);var a=OpenLayers.Format.WFST["v"+b.version.replace(/\./g,"_")];if(!a){throw"Unsupported WFST version: "+b.version}return new a(b)};OpenLayers.Format.WFST.DEFAULTS={version:"1.0.0"};

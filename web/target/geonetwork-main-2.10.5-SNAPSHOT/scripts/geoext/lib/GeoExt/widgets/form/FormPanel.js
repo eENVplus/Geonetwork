@@ -1,0 +1,1 @@
+Ext.namespace("GeoExt.form");GeoExt.form.FormPanel=Ext.extend(Ext.form.FormPanel,{protocol:null,createForm:function(){delete this.initialConfig.listeners;return new GeoExt.form.BasicForm(null,this.initialConfig)},search:function(a){this.getForm().search(a)}});Ext.reg("gx_formpanel",GeoExt.form.FormPanel);

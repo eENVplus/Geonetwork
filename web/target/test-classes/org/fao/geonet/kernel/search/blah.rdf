@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:ns2="http://www.w3.org/2004/02/skos/core#"
+	xmlns:ns3="http://www.opengis.net/gml#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+<rdf:Description rdf:about="http://blah.com#0">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">0_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">0_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">0_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">0_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">0_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">0_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">0_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">0_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6h3x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6h3x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#1">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">1_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">1_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">1_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">1_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">1_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">1_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">1_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">1_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6h5x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6h5x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#2">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">2_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">2_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">2_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">2_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">2_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">2_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">2_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">2_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6h7x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6h7x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#3">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">3_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">3_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">3_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">3_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">3_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">3_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">3_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">3_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6h9x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6h9x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#4">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">4_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">4_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">4_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">4_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">4_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">4_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">4_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">4_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6hax1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6hax1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#5">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">5_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">5_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">5_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">5_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">5_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">5_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">5_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">5_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6hcx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6hcx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#6">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">6_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">6_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">6_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">6_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">6_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">6_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">6_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">6_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6hdx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6hdx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#7">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">7_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">7_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">7_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">7_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">7_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">7_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">7_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">7_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6hfx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6hfx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#8">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">8_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">8_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">8_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">8_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">8_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">8_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">8_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">8_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6hgx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6hgx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#9">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">9_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">9_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">9_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">9_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">9_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">9_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">9_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">9_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6hix1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6hix1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#10">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">10_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">10_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">10_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">10_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">10_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">10_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">10_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">10_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6hkx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6hkx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#11">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">11_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">11_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">11_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">11_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">11_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">11_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">11_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">11_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6hmx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6hmx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#12">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">12_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">12_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">12_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">12_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">12_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">12_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">12_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">12_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6hox1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6hox1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#13">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">13_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">13_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">13_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">13_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">13_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">13_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">13_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">13_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6hqx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6hqx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#14">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">14_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">14_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">14_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">14_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">14_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">14_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">14_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">14_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6htx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6htx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#15">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">15_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">15_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">15_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">15_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">15_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">15_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">15_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">15_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6hvx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6hvx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#16">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">16_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">16_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">16_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">16_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">16_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">16_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">16_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">16_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6i1x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6i1x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#17">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">17_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">17_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">17_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">17_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">17_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">17_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">17_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">17_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6i4x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6i4x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#18">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">18_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">18_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">18_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">18_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">18_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">18_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">18_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">18_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6i6x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6i6x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://blah.com#19">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">19_blahVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">19_blahVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">19_blahVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">19_blahVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">19_blahNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">19_blahNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">19_blahNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">19_blahNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6i9x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6i9x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,1 @@
+Ext.namespace("GeoExt");GeoExt.LayerOpacitySliderTip=Ext.extend(GeoExt.SliderTip,{template:"<div>{opacity}%</div>",compiledTemplate:null,init:function(a){this.compiledTemplate=new Ext.Template(this.template);GeoExt.LayerOpacitySliderTip.superclass.init.call(this,a)},getText:function(a){var b={opacity:a.getValue()};return this.compiledTemplate.apply(b)}});

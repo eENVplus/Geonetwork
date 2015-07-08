@@ -1,0 +1,8 @@
+List all modifications with reference to ticket number.  Tickets should contain
+patches with the same changes.
+
+Modifications
+-------------
+
+ * Write strokeDashstyle and strokeLinecap (#2270)
+ * Deal with spaces in strokeDasharray (#2271)

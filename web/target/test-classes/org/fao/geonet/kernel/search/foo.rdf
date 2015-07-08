@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:ns2="http://www.w3.org/2004/02/skos/core#"
+	xmlns:ns3="http://www.opengis.net/gml#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+<rdf:Description rdf:about="http://foo.com#0">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">0_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">0_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">0_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">0_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">0_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">0_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">0_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">0_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6iix1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6iix1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#1">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">1_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">1_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">1_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">1_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">1_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">1_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">1_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">1_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6ikx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6ikx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#2">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">2_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">2_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">2_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">2_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">2_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">2_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">2_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">2_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6imx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6imx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#3">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">3_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">3_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">3_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">3_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">3_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">3_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">3_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">3_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6inx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6inx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#4">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">4_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">4_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">4_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">4_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">4_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">4_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">4_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">4_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6ipx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6ipx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#5">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">5_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">5_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">5_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">5_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">5_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">5_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">5_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">5_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6iqx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6iqx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#6">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">6_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">6_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">6_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">6_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">6_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">6_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">6_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">6_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6irx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6irx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#7">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">7_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">7_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">7_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">7_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">7_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">7_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">7_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">7_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6itx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6itx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#8">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">8_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">8_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">8_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">8_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">8_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">8_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">8_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">8_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6iux1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6iux1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#9">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">9_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">9_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">9_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">9_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">9_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">9_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">9_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">9_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6j0x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6j0x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#10">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">10_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">10_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">10_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">10_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">10_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">10_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">10_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">10_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6j1x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6j1x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#11">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">11_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">11_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">11_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">11_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">11_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">11_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">11_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">11_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6j3x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6j3x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#12">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">12_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">12_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">12_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">12_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">12_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">12_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">12_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">12_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6j5x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6j5x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#13">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">13_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">13_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">13_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">13_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">13_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">13_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">13_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">13_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6j7x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6j7x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#14">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">14_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">14_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">14_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">14_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">14_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">14_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">14_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">14_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6j9x1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6j9x1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#15">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">15_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">15_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">15_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">15_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">15_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">15_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">15_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">15_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6jbx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6jbx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#16">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">16_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">16_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">16_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">16_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">16_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">16_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">16_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">16_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6jlx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6jlx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#17">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">17_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">17_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">17_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">17_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">17_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">17_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">17_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">17_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6kix1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6kix1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#18">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">18_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">18_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">18_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">18_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">18_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">18_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">18_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">18_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6klx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6klx1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner>10 5</ns3:lowerCorner>
+	<ns3:upperCorner>0 15</ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://foo.com#19">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<ns2:prefLabel xml:lang="en">19_fooVal_eng</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="de">19_fooVal_ger</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="fr">19_fooVal_fre</ns2:prefLabel>
+	<ns2:prefLabel xml:lang="it">19_fooVal_ita</ns2:prefLabel>
+	<ns2:scopeNote xml:lang="en">19_fooNote_eng</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="de">19_fooNote_ger</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="fr">19_fooNote_fre</ns2:scopeNote>
+	<ns2:scopeNote xml:lang="it">19_fooNote_ita</ns2:scopeNote>
+	<ns3:BoundedBy rdf:nodeID="node19icvi6kox1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node19icvi6kox1">
+	<rdf:type rdf:resource="http://www.opengis.net/gml#Envelope"/>
+	<ns3:lowerCorner> </ns3:lowerCorner>
+	<ns3:upperCorner> </ns3:upperCorner>
+	<ns3:srsName rdf:resource="http://www.opengis.net/gml/srs/epsg.xml#epsg:4326"/>
+</rdf:Description>
+
+</rdf:RDF>

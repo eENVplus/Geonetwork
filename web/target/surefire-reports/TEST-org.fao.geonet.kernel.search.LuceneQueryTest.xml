@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="2.076" errors="0" skipped="0" tests="93" name="org.fao.geonet.kernel.search.LuceneQueryTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_51\jre\bin"/>
+    <property name="java.vm.version" value="24.51-b03"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IT"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="c:\geonetwork"/>
+    <property name="java.runtime.version" value="1.7.0_51-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_51\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Marzia\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 8"/>
+    <property name="classworlds.conf" value="C:\Program Files\Apache Software Foundation\apache-maven-3.2.1\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_51\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python34\;C:\Python34\Scripts;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\Marzia\Documents\eENVplus\MapStore\Training-2.4.0-1-32\apache-ant-1.9.2\bin;C:\Program Files\TortoiseHg\;C:\Program Files\PostgreSQL\9.1\bin\;C:\Program Files\Java\jdk1.7.0_51\bin;C:\Program Files\Java\jdk1.7.0_51\jre\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Git\cmd;C:\Program Files\Apache Software Foundation\apache-maven-3.2.1\bin;C:\Program Files\Mercurial;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.2"/>
+    <property name="user.home" value="C:\Users\Marzia"/>
+    <property name="user.timezone" value="Europe/Berlin"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Marzia"/>
+    <property name="java.class.path" value="C:\Program Files\Apache Software Foundation\apache-maven-3.2.1\boot\plexus-classworlds-2.5.1.jar"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_51\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package assembly:assembly"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="it"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_51"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_51\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_51\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_51\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\Apache Software Foundation\apache-maven-3.2.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase time="0.416" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testDateTo"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSource"/>
+  <testcase time="0.004" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSchema"/>
+  <testcase time="0.005" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testProtocol"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testType"/>
+  <testcase time="0.542" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testTitle"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testDateFrom"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultiAny"/>
+  <testcase time="0.122" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testBBEquals"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testDownload"/>
+  <testcase time="0.005" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testDynamic"/>
+  <testcase time="0.271" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testDoubleTokenUUIDWithNonStandardUUID"/>
+  <testcase time="0.004" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleORMultipleTokenWithUUID"/>
+  <testcase time="0.495" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenStarWildcardAtTheEndAny"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleORSingleValueWithALL"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleORMultiValueWithWithout"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleThemeKeyOrSeparated"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleORWithMultipleTokenPhrase"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleAndTopicCategories"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenAnyCaseInsensitive"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleORSingleTokenWithUUID"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenWildcardWhitespace"/>
+  <testcase time="0.008" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenQMarkWildcardAny"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleMultiTokenInspireTheme"/>
+  <testcase time="0.006" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenQMarkWildcardAtTheEndAny"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMoreThanOneORParamSingleValue"/>
+  <testcase time="0.003" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleORSingleValueAndANDparam"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultiORMultipleNonTokenizedValuesWithOr"/>
+  <testcase time="0.004" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleORMultiValueWithOR"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenAny"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testNoTokenAny"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleTokensAny"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenOr"/>
+  <testcase time="0.002" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenAll"/>
+  <testcase time="0.011" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleTokensAllFuzzy"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultiORWithSecurityField"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultiORSingleValue"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenAnyFuzzy"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleORSingleValue"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleORWithTemporal"/>
+  <testcase time="0.019" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenUUID"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleORWithBB"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleTokensAnyFuzzy"/>
+  <testcase time="0.102" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenWildcardAny"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleTokenOr"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleTokenOrFuzzy"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenAnyFuzzy1"/>
+  <testcase time="0.004" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenWithout"/>
+  <testcase time="0.002" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleTokenWithout"/>
+  <testcase time="0.002" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleTokenWithoutfuzzy"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenPhrase"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleTokenPhraseFuzzy"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTopicCategory"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleORMultipleValue"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testDoubleTokenUUID"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleTokenPhrase"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleOrTopicCategories"/>
+  <testcase time="0.002" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultiORMultipleValue"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testBBOverlaps"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleInspireTheme"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testBBFullyEnclosedWithin"/>
+  <testcase time="0.002" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testBBFullyOutsideOf"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testIsTemplateWTF"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testEditableTrue"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultiGroupOwner"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleThemeKey"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleInspireTheme"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleTokenInspireAnnex"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testTemporalExtent"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testRandomTest1"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testIsTemplateNoValue"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testOperatesOn"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testPopularGet"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testFeaturedTrue"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultiGroupAdmin"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testDigitalAndPaper"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleGroup"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testIsTemplateY"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testDateToFrom"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleCategory"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testFeaturedNotTrue"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleGroupOwner"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testBBOverlapsStandard"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testIsTemplateS"/>
+  <testcase time="0.004" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleOrCategory"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleGroupOwner"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleInspire"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultiGroup"/>
+  <testcase time="0.001" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultipleCategory"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testParentUUID"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testMultiGroupReviewer"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testSingleThemeKey"/>
+  <testcase time="0" classname="org.fao.geonet.kernel.search.LuceneQueryTest" name="testBBEncloses"/>
+</testsuite>

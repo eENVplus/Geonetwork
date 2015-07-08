@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="C:\geonetwork\jeeves\src\main\java\com\yammer\metrics\core\DummyCounter.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\com\yammer\metrics\core\DummyExecutorService.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\com\yammer\metrics\core\DummyHistogram.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\com\yammer\metrics\core\DummyMeter.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\com\yammer\metrics\core\DummyTimer.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\config\springutil\AddAuthenticationProviderPostProcessor.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\config\springutil\GeonetworkFilterSecurityInterceptor.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\config\springutil\JeevesApplicationContext.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\config\springutil\JeevesContextLoaderListener.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\config\springutil\LogoutUserSessionHandler.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\config\springutil\ServerBeanPropertyUpdater.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\constants\ConfigFile.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\constants\Jeeves.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\constants\Profiles.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\BadFormatEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\BadInputEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\BadParameterEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\BadResponseEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\BadServerCertificateEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\BadServerResponseEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\BadSoapResponseEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\BadXmlResponseEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\FileNotFoundEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\FileUploadTooBigEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\JeevesClientEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\JeevesException.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\JeevesServerEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\MissingParameterEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\NotAllowedEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\NotFoundEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\ObjectNotFoundEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\OperationAbortedEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\OperationNotAllowedEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\ResourceNotFoundEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\ServiceNotAllowedEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\ServiceNotFoundEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\ServiceNotMatchedEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\UserLoginEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\UserNotFoundEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\exceptions\XSDValidationErrorEx.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\guiservices\profiles\Get.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\guiservices\session\Get.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\guiservices\session\JeevesUser.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\interfaces\Activator.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\interfaces\ApplicationHandler.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\interfaces\Logger.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\interfaces\Schedule.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\interfaces\Service.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\JeevesCacheManager.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\JeevesJCS.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\JeevesProxyInfo.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\monitor\GeonetworkJmxReporter.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\monitor\guage\FreeFileDescriptorsGuage.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\monitor\healthcheck\FreeFileHandlesHealthCheck.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\monitor\HealthCheckFactory.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\monitor\MetricsFactory.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\monitor\MonitorManager.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\monitor\ResourceTracker.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\monitor\timer\ResourceManagerResourceIsOpenTimer.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\monitor\timer\ResourceManagerWaitForResourceTimer.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\monitor\timer\ServiceManagerGuiServicesTimer.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\monitor\timer\ServiceManagerServicesTimer.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\monitor\timer\ServiceManagerXslOutputTransformTimer.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\resources\dbms\AbstractDbmsPool.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\resources\dbms\ApacheDBCPool.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\resources\dbms\Dbms.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\resources\dbms\JNDIPool.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\context\BasicContext.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\context\ScheduleContext.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\context\ServiceContext.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\context\ServiceExecutionFailedException.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\dispatchers\AbstractPage.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\dispatchers\ErrorPage.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\dispatchers\guiservices\Call.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\dispatchers\guiservices\GuiService.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\dispatchers\guiservices\XmlCacheManager.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\dispatchers\guiservices\XmlFile.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\dispatchers\OutputPage.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\dispatchers\ServiceInfo.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\dispatchers\ServiceManager.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\JeevesEngine.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\local\LocalJeeves.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\local\LocalServiceRequest.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\overrides\AddInterceptUrlUpdater.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\overrides\AddPropertyUpdater.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\overrides\BeanUpdater.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\overrides\ConfigurationOverrides.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\overrides\OverridesMetadataSource.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\overrides\PropertyUpdater.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\overrides\RefValueLoader.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\overrides\SetPropertyUpdater.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\overrides\SpringPropertyOverrides.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\overrides\Updater.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\overrides\ValueLoader.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\overrides\ValueValueLoader.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\ProfileManager.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\resources\ProviderManager.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\resources\ResourceListener.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\resources\ResourceManager.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\resources\ResourceProvider.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\resources\Stats.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\ScheduleJob.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\ScheduleListener.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\ScheduleManager.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\ServiceConfig.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\sources\http\HttpServiceRequest.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\sources\http\JeevesServlet.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\sources\ServiceRequest.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\sources\ServiceRequestFactory.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\server\UserSession.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\services\db\DBUtils.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\services\db\Execute.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\services\db\Select.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\services\http\Get.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\services\Ping.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\services\RegExpReplace.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\services\session\Put.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\BinaryFile.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\BLOB.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\EMail.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\format\Date.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\format\Formatter.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\IO.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\JeevesSAXBuilder.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\Log.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\PasswordUtil.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\ProxyInfo.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\ProxyInfoObserver.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\ProxyParams.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\QuartzSchedulerUtils.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\Resolver.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\ResolverWrapper.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\SerialFactory.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\SOAPUtil.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\StringBufferOutputStream.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\TransformerFactoryFactory.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\Util.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\Xml.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\XmlElementReader.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\XmlFileCacher.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\XmlRequest.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\XmlResolver.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\utils\XPath.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\xlink\Processor.java">
+</file>
+<file name="C:\geonetwork\jeeves\src\main\java\jeeves\xlink\XLink.java">
+</file>
+</checkstyle>

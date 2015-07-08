@@ -1,0 +1,1 @@
+OpenLayers.Symbolizer.Text=OpenLayers.Class(OpenLayers.Symbolizer,{label:null,fontFamily:null,fontSize:null,fontWeight:null,fontStyle:null,initialize:function(a){OpenLayers.Symbolizer.prototype.initialize.apply(this,arguments)},CLASS_NAME:"OpenLayers.Symbolizer.Text"});
